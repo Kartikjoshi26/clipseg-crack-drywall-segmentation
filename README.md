@@ -58,12 +58,13 @@ Train/Validation split used.
 
 Access predictions from both models (Experiment 1 & Experiment 2):
 
-* [Predictions on Google Drive]((https://drive.google.com/drive/folders/12Xkuo2P0K_5BKM_XlBv2beWipf23J6CP?usp=sharing))
+* [Predictions on Google Drive](https://drive.google.com/drive/folders/12Xkuo2P0K_5BKM_XlBv2beWipf23J6CP?usp=sharing)
 
 The drive contains:
 * Experiment 1 predictions (baseline model)
 * Experiment 2 predictions (improved model)
 * Both crack and drywall segmentation outputs
+
 
 
 ## 📥 Model Weights
