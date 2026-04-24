@@ -65,17 +65,7 @@ The drive contains:
 * Experiment 2 predictions (improved model)
 * Both crack and drywall segmentation outputs
 
-
-
-## 📥 Model Weights
-Pretrained weights are available here:
-
-* Model 2 (best): https://www.kaggle.com/datasets/kartikjoshi24/model-2-clipseg-crack-and-drywall-segmentation
-* Model 1 (baseline): https://www.kaggle.com/datasets/kartikjoshi24/model-1-clipseg-crack-and-drywall-segmentation
-
-
-## 📥 Model Predictions
-Access predictions from both models (Experiment 1 & Experiment 2):
+  Access predictions from both models (Experiment 1 & Experiment 2):
 
 Predictions on Google Drive
 
@@ -84,11 +74,14 @@ Predictions:
 * Model 1 (ZIP): https://drive.google.com/file/d/1_id87K7cETFAeoBqay9zSDCRnopAMsu_/view?usp=sharing
 * Model 2 (ZIP): https://drive.google.com/file/d/13AcEXmAzhP9PtwMgskvFctTO30MjcK9S/view?usp=drive_link
 
-The drive contains:
 
-Experiment 1 predictions (baseline model)
-Experiment 2 predictions (improved model)
-Both crack and drywall segmentation outputs
+
+## 📥 Model Weights
+Pretrained weights are available here:
+
+* Model 2 (best): https://www.kaggle.com/datasets/kartikjoshi24/model-2-clipseg-crack-and-drywall-segmentation
+* Model 1 (baseline): https://www.kaggle.com/datasets/kartikjoshi24/model-1-clipseg-crack-and-drywall-segmentation
+
 
 
 
