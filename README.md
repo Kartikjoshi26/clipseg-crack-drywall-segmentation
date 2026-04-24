@@ -54,6 +54,26 @@ Train/Validation split used.
 | mIoU | 0.518 |
 | mDice | 0.662 |
 
+## 📥 Model Predictions
+
+Access predictions from both models (Experiment 1 & Experiment 2):
+
+* [Predictions on Google Drive]([YOUR_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/12Xkuo2P0K_5BKM_XlBv2beWipf23J6CP?usp=sharing))
+
+The drive contains:
+* Experiment 1 predictions (baseline model)
+* Experiment 2 predictions (improved model)
+* Both crack and drywall segmentation outputs
+
+
+## 📥 Model Weights
+Pretrained weights are available here:
+
+* Model 2 (best): https://www.kaggle.com/datasets/kartikjoshi24/model-2-clipseg-crack-and-drywall-segmentation
+* Model 1 (baseline): https://www.kaggle.com/datasets/kartikjoshi24/model-1-clipseg-crack-and-drywall-segmentation
+
+
+
 ## ⚡ Performance
 
 * Inference: ~0.042 sec/image (~23 FPS)
@@ -77,17 +97,6 @@ Train/Validation split used.
 * Low-contrast drywall regions are challenging
 * Ground truth masks for drywall are sometimes coarse
 
-## 📁 Structure
-
-```
-.
-├── train/
-├── val/
-├── predictions/
-├── best_model.pth
-├── training_history.csv
-└── README.md
-```
 
 ## 🏁 Summary
 
